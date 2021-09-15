@@ -16,3 +16,16 @@ This Game can be run in the command line without a GUI.<br>
 - Basic java knowledge
 - knowledge of object oriented programming
 - knowledge of packages and inheritance
+<br>
+<br>
+
+# Contributors:
+- Khaled Badran (Programming Gym) => 📧E-mail: <gym4programming@gmail.com>
+<br>
+<br>
+
+
+# License & Copyright:
+© Khaled Badran (Programming Gym)
+<br>
+Licensed under the [MIT License](LICENSE)
